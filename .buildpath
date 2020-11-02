@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="1-1"/>
+	<buildpathentry kind="src" path="1-10"/>
+	<buildpathentry kind="src" path="1-11"/>
+	<buildpathentry kind="src" path="1-12"/>
+	<buildpathentry kind="src" path="1-13"/>
+	<buildpathentry kind="src" path="1-14"/>
+	<buildpathentry kind="src" path="1-15"/>
+	<buildpathentry kind="src" path="1-16"/>
+	<buildpathentry kind="src" path="1-17"/>
+	<buildpathentry kind="src" path="1-18"/>
+	<buildpathentry kind="src" path="1-19"/>
+	<buildpathentry kind="src" path="1-2"/>
+	<buildpathentry kind="src" path="1-20"/>
+	<buildpathentry kind="src" path="1-21"/>
+	<buildpathentry kind="src" path="1-22"/>
+	<buildpathentry kind="src" path="1-3"/>
+	<buildpathentry kind="src" path="1-4"/>
+	<buildpathentry kind="src" path="1-5"/>
+	<buildpathentry kind="src" path="1-6"/>
+	<buildpathentry kind="src" path="1-7"/>
+	<buildpathentry kind="src" path="1-8"/>
+	<buildpathentry kind="src" path="1-9"/>
+	<buildpathentry kind="src" path="EXTRA-1-1"/>
+	<buildpathentry kind="src" path="EXTRA-1-2"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
